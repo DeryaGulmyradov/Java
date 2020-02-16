@@ -35,21 +35,9 @@ public class printReceipt {
             System.out.print("Please enter quantity item: ");
             int quantity = myScanner.nextInt();
             priceItem = priceItem*quantity;
-
-
-
-
             System.out.println("Item name  Quantity Price");
             System.out.println("_________  ________ _____");
             System.out.println(nameItem+"     "+quantity+"     $"+priceItem);
-
-
-
-
-
-
-
-
 
         }
         else
