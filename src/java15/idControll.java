@@ -17,7 +17,7 @@ public class idControll {
             System.out.println("please use gate B");
         }
         else if (where.equalsIgnoreCase("Asia")){
-            System.out.println("please use gate C");
+            System.out.println("please usedgg gate C");
         }
         else {
             System.out.println("wrong password");
